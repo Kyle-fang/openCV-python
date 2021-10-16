@@ -1,3 +1,12 @@
+/*
+ * @Author: fangweijie
+ * @Date:   2021-10-16 20:30:29
+ * @Last Modified by: fangweijie
+ * @Last Modified time: 2021-10-16 20:30:29
+ * 退出图像显示窗口，按任意键
+ * 自适应中值滤波算法实现
+ */
+
 #include <opencv2/core/core.hpp>
 #include <opencv2/imgproc/imgproc.hpp>
 #include <opencv2/highgui/highgui.hpp>
